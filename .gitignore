@@ -142,9 +142,6 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
-# Click-Once directory
-publish/
-
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
@@ -286,3 +283,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+[Pp]ublish/
